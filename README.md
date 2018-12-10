@@ -6,3 +6,5 @@ This app is not complete and various other features can be added to it.
 Also a notification can be sent from firebase console to the user depending on which topic user has subscribed.
 All data is stored in firebase database.
 Also it involves only frontend User Interface of Profile and User activities.
+
+Googleservices.json file has been removed for security purposes. You need to add yours when you connect to the firebase.
